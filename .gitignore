@@ -128,3 +128,13 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# misc
+all_the_videos*
+_oneDrive_videos_uploaded*
+_s3videos_uploaded*
+bak_*
+s3videos_*
+,*
+json2s3-copy.js
+temp.js

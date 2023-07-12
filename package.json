@@ -1,0 +1,26 @@
+{
+  "name": "youtube-gs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.95.0",
+    "@pnp/nodejs": "^3.2.0",
+    "@pnp/sp": "^3.2.0",
+    "aws-sdk": "^2.1129.0",
+    "axios": "^0.27.2",
+    "ffmpeg-static": "^5.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "googleapis": "^100.0.0",
+    "onedrive-api": "^1.0.4",
+    "prompts": "^2.4.2",
+    "ramda": "^0.28.0",
+    "simple-oauth2": "^4.3.0",
+    "ytdl-core": "^4.11.0"
+  }
+}
